@@ -1,4 +1,6 @@
-
+{
+    "locations":
+    [
     {
       "lat": 51.422802,
       "lng": -2.494794,
@@ -139,4 +141,6 @@
       "country": "uk",
       "html": "<p class=\"job\">Lorem ipsum 17</p>"
     }
+        ]
+}
 
