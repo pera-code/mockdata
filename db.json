@@ -5,20 +5,7 @@
 					"lng": -2.494794,
 					"roleMapping": "Management and support",
 					"country": "swe",
-					"html": "`<a class="job" href="http://localhost:8000">
-					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/Sweden.svg" alt="" class="flag image-circle"></h4>
-					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
-					<div class="job__location">
-						<i class="i i-location"></i>
-						<span>Dierenziekenhuis Zuid-Oost Brabant, Geldrop</span>
-					</div>
-					<span class="job__deadline">Apply Before 26/5/2022</span>
-					<span class="job__read-more">Read more and apply
-						<i class="i i-link-external"></i>
-					</span>
-				</a>
-				<hr class="small">
-				`",
+					"html": "<p class=\"job\">Lorem ipsum 0</p>",
 				},
 				{
 					"lat": 52.473454,
