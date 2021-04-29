@@ -1,11 +1,11 @@
 {
-"locations" = [
+"locations" : [
 				{
 					"lat": 51.422802,
 					"lng": -2.494794,
-					"roleMapping": 'Management and support',
-					"country": 'swe',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Management and support",
+					"country": "swe",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/Sweden.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -18,14 +18,14 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 				},
 				{
 					"lat": 52.473454,
 					"lng": -1.95635,
-					"roleMapping": 'Veterinary surgeon',
-					"country": 'uk',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Veterinary surgeon",
+					"country": "uk",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/United-Kingdom.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -38,14 +38,14 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 				},
 				{
 					"lat": 51.29067,
 					"lng": -2.43772,
-					"roleMapping": 'Veterinary surgeon',
-					"country": 'uk',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Veterinary surgeon",
+					"country": "uk",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/United-Kingdom.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -58,14 +58,14 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 				},
 				{
 					"lat": 52.66878,
 					"lng": -1.84837,
 					"roleMapping": null,
-					"country": 'sco',
-					"html": `<a class="job" href="http://localhost:8000">
+					"country": "sco",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/Scotland.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -78,14 +78,14 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 				},
 				{
 					"lat": 51.620434,
 					"lng": -3.451996,
-					"roleMapping": 'Veterinary surgeon',
-					"country": 'uk',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Veterinary surgeon",
+					"country": "uk",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/United-Kingdom.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -98,14 +98,14 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 				},
 				{
 					"lat": 55.87107,
 					"lng": -3.50506,
 					"roleMapping": null,
-					"country": 'uk',
-					html: `<a class="job" href="http://localhost:8000">
+					"country": "uk",
+					html: "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/United-Kingdom.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -117,14 +117,14 @@
 						<i class="i i-link-external"></i>
 					</span>
 				</a>
-				`,
+				`",
 				},
 				{
 					"lat": 51.44551,
 					"lng": -0.10535,
 					"roleMapping": null,
-					"country": 'sco',
-					"html": `<a class="job" href="http://localhost:8000">
+					"country": "sco",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/Scotland.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -137,14 +137,14 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 				},
 				{
 					"lat": 51.8782,
 					"lng": -1.7062,
-					"roleMapping": 'Nurse',
-					"country": 'swe',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Nurse",
+					"country": "swe",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/Sweden.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -157,14 +157,14 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 				},
 				{
 					"lat": 58.40339549999999,
 					"lng": 15.6038439,
 					"roleMapping": null,
-					"country": 'swe',
-					"html": `<a class="job" href="http://localhost:8000">
+					"country": "swe",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/Sweden.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -177,14 +177,14 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 				},
 				{
 					"lat": 58.40339549999999,
 					"lng": 15.6038439,
-					"roleMapping": 'Veterinary surgeon',
-					"country": 'swe',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Veterinary surgeon",
+					"country": "swe",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/Sweden.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -197,14 +197,14 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 				},
 				{
 					"lat": 58.40339549999999,
 					"lng": 15.6038439,
-					"roleMapping": 'Veterinary surgeon',
-					"country": 'swe',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Veterinary surgeon",
+					"country": "swe",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/Sweden.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -217,15 +217,15 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 
 				},
 				{
 					"lat": 53.031685,
 					"lng": -2.217008,
-					"roleMapping": 'Nurse',
-					"country": 'swe',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Nurse",
+					"country": "swe",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/Sweden.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -238,14 +238,14 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 				},
 				{
 					"lat": 54.54086,
 					"lng": -1.055887,
-					"roleMapping": 'Veterinary surgeon',
-					"country": 'sco',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Veterinary surgeon",
+					"country": "sco",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/Scotland.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -258,15 +258,15 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 
 				},
 				{
 					"lat": 52.74873,
 					"lng": 0.402805,
-					"roleMapping": 'Nurse',
-					"country": 'uk',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Nurse",
+					"country": "uk",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/United-Kingdom.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -279,14 +279,14 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 				},
 				{
 					"lat": 53.01658,
 					"lng": -1.300456,
-					"roleMapping": 'Veterinary surgeon',
-					"country": 'uk',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Veterinary surgeon",
+					"country": "uk",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/United-Kingdom.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -299,15 +299,15 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 
 				},
 				{
 					"lat": 52.75697,
 					"lng": 0.294978999999999,
-					"roleMapping": 'Veterinary surgeon',
-					"country": 'uk',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Veterinary surgeon",
+					"country": "uk",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/United-Kingdom.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -320,14 +320,14 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 				},
 				{
 					"lat": 52.75697,
 					"lng": 0.294978999999999,
-					"roleMapping": 'Nurse',
-					"country": 'sco',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Nurse",
+					"country": "sco",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/Scotland.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -340,15 +340,15 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 
 				},
 				{
 					"lat": 56.0061,
 					"lng": -3.78436,
-					"roleMapping": 'Veterinary surgeon',
-					"country": 'sco',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Veterinary surgeon",
+					"country": "sco",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/Scotland.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -361,15 +361,15 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 
 				},
 				{
 					"lat": 55.8362229999999,
 					"lng": -4.55230499999999,
-					"roleMapping": 'Veterinary surgeon',
-					"country": 'swe',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Veterinary surgeon",
+					"country": "swe",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/Sweden.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -382,15 +382,15 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 
 				},
 				{
 					"lat": 56.395737,
 					"lng": -3.439965,
-					"roleMapping": 'Management and support',
-					"country": 'uk',
-					"html": `<a class="job" href="http://localhost:8000">
+					"roleMapping": "Management and support",
+					"country": "uk",
+					"html": "`<a class="job" href="http://localhost:8000">
 					<h4 class="job__type">Dierenkliniek Volendam Edam, Volendam <img src="/images/flags/United-Kingdom.svg" alt="" class="flag image-circle"></h4>
 					<h3 class="job__title txt-primary">Dierenarts gezocht voor NIEUW Evidensia Dierenziekenhuis Zuidoost Brabant (Geldrop)</h3>
 					<div class="job__location">
@@ -403,7 +403,7 @@
 					</span>
 				</a>
 				<hr class="small">
-				`,
+				`",
 				},
 			];
 }
