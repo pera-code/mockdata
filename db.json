@@ -40,7 +40,7 @@
 					"lng": -3.50506,
 					"roleMapping": null,
 					"country": "uk",
-					html: "<p class=\"job\">Lorem ipsum 3</p>",
+					"html": "<p class=\"job\">Lorem ipsum 3</p>",
 				},
 				{
 					"lat": 51.44551,
