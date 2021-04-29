@@ -1,149 +1,144 @@
-"locations" : [
-				{
-					"lat": 51.422802,
-					"lng": -2.494794,
-					"roleMapping": "Management and support",
-					"country": "swe",
-					"html": "<p class=\"job\">Lorem ipsum 0</p>",
-				},
-				{
-					"lat": 52.473454,
-					"lng": -1.95635,
-					"roleMapping": "Veterinary surgeon",
-					"country": "uk",
-					"html": "<p class=\"job\">Lorem ipsum 1</p>",
-				},
-				{
-					"lat": 51.29067,
-					"lng": -2.43772,
-					"roleMapping": "Veterinary surgeon",
-					"country": "uk",
-					"html": "<p class=\"job\">Lorem ipsum 2</p>",
-				},
-				{
-					"lat": 52.66878,
-					"lng": -1.84837,
-					"roleMapping": null,
-					"country": "sco",
-					"html": "<p class=\"job\">Lorem ipsum 3</p>",
-				},
-				{
-					"lat": 51.620434,
-					"lng": -3.451996,
-					"roleMapping": "Veterinary surgeon",
-					"country": "uk",
-					"html": "<p class=\"job\">Lorem ipsum 4</p>",
-				},
-				{
-					"lat": 55.87107,
-					"lng": -3.50506,
-					"roleMapping": null,
-					"country": "uk",
-					"html": "<p class=\"job\">Lorem ipsum 3</p>",
-				},
-				{
-					"lat": 51.44551,
-					"lng": -0.10535,
-					"roleMapping": null,
-					"country": "sco",
-					"html": "<p class=\"job\">Lorem ipsum 4</p>",
-				},
-				{
-					"lat": 51.8782,
-					"lng": -1.7062,
-					"roleMapping": "Nurse",
-					"country": "swe",
-					"html": "<p class=\"job\">Lorem ipsum 5</p>",
-				},
-				{
-					"lat": 58.40339549999999,
-					"lng": 15.6038439,
-					"roleMapping": null,
-					"country": "swe",
-					"html": "<p class=\"job\">Lorem ipsum 6</p>",
-				},
-				{
-					"lat": 58.40339549999999,
-					"lng": 15.6038439,
-					"roleMapping": "Veterinary surgeon",
-					"country": "swe",
-					"html": "<p class=\"job\">Lorem ipsum 7</p>",
-				},
-				{
-					"lat": 58.40339549999999,
-					"lng": 15.6038439,
-					"roleMapping": "Veterinary surgeon",
-					"country": "swe",
-					"html": "<p class=\"job\">Lorem ipsum 8</p>",
-
-				},
-				{
-					"lat": 53.031685,
-					"lng": -2.217008,
-					"roleMapping": "Nurse",
-					"country": "swe",
-					"html": "<p class=\"job\">Lorem ipsum 9</p>",
-				},
-				{
-					"lat": 54.54086,
-					"lng": -1.055887,
-					"roleMapping": "Veterinary surgeon",
-					"country": "sco",
-					"html": "<p class=\"job\">Lorem ipsum 10</p>",
-
-				},
-				{
-					"lat": 52.74873,
-					"lng": 0.402805,
-					"roleMapping": "Nurse",
-					"country": "uk",
-					"html": "<p class=\"job\">Lorem ipsum 11</p>",
-				},
-				{
-					"lat": 53.01658,
-					"lng": -1.300456,
-					"roleMapping": "Veterinary surgeon",
-					"country": "uk",
-					"html": "<p class=\"job\">Lorem ipsum 12</p>",
-
-				},
-				{
-					"lat": 52.75697,
-					"lng": 0.294978999999999,
-					"roleMapping": "Veterinary surgeon",
-					"country": "uk",
-					"html": "<p class=\"job\">Lorem ipsum 13</p>",
-				},
-				{
-					"lat": 52.75697,
-					"lng": 0.294978999999999,
-					"roleMapping": "Nurse",
-					"country": "sco",
-					"html": "<p class=\"job\">Lorem ipsum 14</p>",
-
-				},
-				{
-					"lat": 56.0061,
-					"lng": -3.78436,
-					"roleMapping": "Veterinary surgeon",
-					"country": "sco",
-					"html": "<p class=\"job\">Lorem ipsum 15</p>",
-
-				},
-				{
-					"lat": 55.8362229999999,
-					"lng": -4.55230499999999,
-					"roleMapping": "Veterinary surgeon",
-					"country": "swe",
-					"html": "<p class=\"job\">Lorem ipsum 16</p>",
-
-				},
-				{
-					"lat": 56.395737,
-					"lng": -3.439965,
-					"roleMapping": "Management and support",
-					"country": "uk",
-					"html": "<p class=\"job\">Lorem ipsum 17</p>",
-				},
-			]
-
+{
+  "locations":[
+    {
+      "lat":51.422802,
+      "lng":-2.494794,
+      "roleMapping":"Management and support",
+      "country":"swe",
+      "html":"<p class=\"job\">Lorem ipsum 0</p>"
+    },
+    {
+      "lat":52.473454,
+      "lng":-1.95635,
+      "roleMapping":"Veterinary surgeon",
+      "country":"uk",
+      "html":"<p class=\"job\">Lorem ipsum 1</p>"
+    },
+    {
+      "lat":51.29067,
+      "lng":-2.43772,
+      "roleMapping":"Veterinary surgeon",
+      "country":"uk",
+      "html":"<p class=\"job\">Lorem ipsum 2</p>"
+    },
+    {
+      "lat":52.66878,
+      "lng":-1.84837,
+      "roleMapping":null,
+      "country":"sco",
+      "html":"<p class=\"job\">Lorem ipsum 3</p>"
+    },
+    {
+      "lat":51.620434,
+      "lng":-3.451996,
+      "roleMapping":"Veterinary surgeon",
+      "country":"uk",
+      "html":"<p class=\"job\">Lorem ipsum 4</p>"
+    },
+    {
+      "lat":55.87107,
+      "lng":-3.50506,
+      "roleMapping":null,
+      "country":"uk",
+      "html":"<p class=\"job\">Lorem ipsum 3</p>"
+    },
+    {
+      "lat":51.44551,
+      "lng":-0.10535,
+      "roleMapping":null,
+      "country":"sco",
+      "html":"<p class=\"job\">Lorem ipsum 4</p>"
+    },
+    {
+      "lat":51.8782,
+      "lng":-1.7062,
+      "roleMapping":"Nurse",
+      "country":"swe",
+      "html":"<p class=\"job\">Lorem ipsum 5</p>"
+    },
+    {
+      "lat":58.40339549999999,
+      "lng":15.6038439,
+      "roleMapping":null,
+      "country":"swe",
+      "html":"<p class=\"job\">Lorem ipsum 6</p>"
+    },
+    {
+      "lat":58.40339549999999,
+      "lng":15.6038439,
+      "roleMapping":"Veterinary surgeon",
+      "country":"swe",
+      "html":"<p class=\"job\">Lorem ipsum 7</p>"
+    },
+    {
+      "lat":58.40339549999999,
+      "lng":15.6038439,
+      "roleMapping":"Veterinary surgeon",
+      "country":"swe",
+      "html":"<p class=\"job\">Lorem ipsum 8</p>"
+    },
+    {
+      "lat":53.031685,
+      "lng":-2.217008,
+      "roleMapping":"Nurse",
+      "country":"swe",
+      "html":"<p class=\"job\">Lorem ipsum 9</p>"
+    },
+    {
+      "lat":54.54086,
+      "lng":-1.055887,
+      "roleMapping":"Veterinary surgeon",
+      "country":"sco",
+      "html":"<p class=\"job\">Lorem ipsum 10</p>"
+    },
+    {
+      "lat":52.74873,
+      "lng":0.402805,
+      "roleMapping":"Nurse",
+      "country":"uk",
+      "html":"<p class=\"job\">Lorem ipsum 11</p>"
+    },
+    {
+      "lat":53.01658,
+      "lng":-1.300456,
+      "roleMapping":"Veterinary surgeon",
+      "country":"uk",
+      "html":"<p class=\"job\">Lorem ipsum 12</p>"
+    },
+    {
+      "lat":52.75697,
+      "lng":0.294978999999999,
+      "roleMapping":"Veterinary surgeon",
+      "country":"uk",
+      "html":"<p class=\"job\">Lorem ipsum 13</p>"
+    },
+    {
+      "lat":52.75697,
+      "lng":0.294978999999999,
+      "roleMapping":"Nurse",
+      "country":"sco",
+      "html":"<p class=\"job\">Lorem ipsum 14</p>"
+    },
+    {
+      "lat":56.0061,
+      "lng":-3.78436,
+      "roleMapping":"Veterinary surgeon",
+      "country":"sco",
+      "html":"<p class=\"job\">Lorem ipsum 15</p>"
+    },
+    {
+      "lat":55.8362229999999,
+      "lng":-4.55230499999999,
+      "roleMapping":"Veterinary surgeon",
+      "country":"swe",
+      "html":"<p class=\"job\">Lorem ipsum 16</p>"
+    },
+    {
+      "lat":56.395737,
+      "lng":-3.439965,
+      "roleMapping":"Management and support",
+      "country":"uk",
+      "html":"<p class=\"job\">Lorem ipsum 17</p>"
+    }
+  ]
+}
